@@ -1,0 +1,15 @@
+D:\sourses\convertPdfToWord\convertPdfToWord\bin\Debug\convertPdfToWord.exe.config
+D:\sourses\convertPdfToWord\convertPdfToWord\bin\Debug\convertPdfToWord.exe
+D:\sourses\convertPdfToWord\convertPdfToWord\bin\Debug\convertPdfToWord.pdb
+D:\sourses\convertPdfToWord\convertPdfToWord\bin\Debug\Spire.Pdf.dll
+D:\sourses\convertPdfToWord\convertPdfToWord\bin\Debug\Microsoft.mshtml.dll
+D:\sourses\convertPdfToWord\convertPdfToWord\bin\Debug\Spire.Pdf.xml
+D:\sourses\convertPdfToWord\convertPdfToWord\obj\Debug\convertPdfToWord.csproj.AssemblyReference.cache
+D:\sourses\convertPdfToWord\convertPdfToWord\obj\Debug\convertPdfToWord.csproj.SuggestedBindingRedirects.cache
+D:\sourses\convertPdfToWord\convertPdfToWord\obj\Debug\convertPdfToWord.Form1.resources
+D:\sourses\convertPdfToWord\convertPdfToWord\obj\Debug\convertPdfToWord.Properties.Resources.resources
+D:\sourses\convertPdfToWord\convertPdfToWord\obj\Debug\convertPdfToWord.csproj.GenerateResource.cache
+D:\sourses\convertPdfToWord\convertPdfToWord\obj\Debug\convertPdfToWord.csproj.CoreCompileInputs.cache
+D:\sourses\convertPdfToWord\convertPdfToWord\obj\Debug\convertPdfToWord.csproj.CopyComplete
+D:\sourses\convertPdfToWord\convertPdfToWord\obj\Debug\convertPdfToWord.exe
+D:\sourses\convertPdfToWord\convertPdfToWord\obj\Debug\convertPdfToWord.pdb
